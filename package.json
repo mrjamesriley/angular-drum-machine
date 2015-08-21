@@ -17,7 +17,7 @@
     "grunt-contrib-watch": "latest",
     "grunt-contrib-connect": "latest",
     "grunt-karma": "latest",
-    "karma": "~0.12.0",
+    "karma": "~0.13",
     "karma-script-launcher": "~0.1.0",
     "karma-firefox-launcher": "~0.1.0",
     "karma-chrome-launcher": "~0.1.0",
