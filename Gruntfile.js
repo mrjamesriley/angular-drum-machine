@@ -38,7 +38,6 @@ module.exports = function(grunt) {
     sass: {
       dist: {
         options: {
-          sourcemap: true,
           style: 'compressed',
           loadPath: '<%= meta.bowerPath %>foundation/scss/'
         },
